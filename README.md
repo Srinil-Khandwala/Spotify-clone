@@ -1,4 +1,4 @@
-# Twitter-clone
+# Spotify-clone
 
 Project link : 'https://spotify-clone-171b09.netlify.app/'
 
